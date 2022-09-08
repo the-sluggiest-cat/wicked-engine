@@ -1,0 +1,6 @@
+-cp src
+-lib heaps
+-lib hlsdl
+-hl bin/hlboot.dat
+-main Main
+-D windowSize=1366x768
