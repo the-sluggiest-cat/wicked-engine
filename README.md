@@ -10,10 +10,12 @@ haxelib install heaps
 haxe compile.hxml
 ```
 ...and that's it. Literally, that's all you need, and in less than a second, you have an up and running FNF engine.
+
 *Crazy, isn't it?!* The glory of Heaps.io.
 
 ## How to mod?
 Wicked Engine has comments *everywhere* in the code -- because Kade and ShadowMario didn't bother to.
+
 *(in case either are reading this, im actually a big fan, but comments help both you and others!)*
 
 With time to learn Haxe, or, if you already know it, you're totally welcome to work with the resources provided, and some basic manuals on how to do different things that **I** wish I knew when I first started working with Heaps!
@@ -21,15 +23,16 @@ With time to learn Haxe, or, if you already know it, you're totally welcome to w
 ## I don't wanna edit source code...
 
 ...and that's okay! Instead of using Lua *(awkward stare at ShadowMario/Kade)*, Haxe has it's own scripting language, **HScript!**
+
 You can do (pretty much) all the same stuff you wanted to do with Haxe with HScript, as I did my best to make it all built in.
 
 ## What if I'm just an animator, charter, composer, etcetera, and just want to make sure it all works?
 
 That's cool too, no biggie, Wicked has a series of tools to make sure that it's usable with the engine,
-**Chart editor *(with backwards compatibility with HaxeFlixel's JSON!)*,**
-**Animator/offset editor,**
-**Song editor *(verify that your songs are in the proper format!)*,**
-*and other utilities that a modder might need!*
+- **Chart editor *(with backwards compatibility with HaxeFlixel's JSON!)*,**
+- **Animator/offset editor,**
+- **Song editor *(verify that your songs are in the proper format!)*,**
+- *and other utilities that a modder might need!*
 
 (It's practically MADE to be modded with... *because it is!*)
 
