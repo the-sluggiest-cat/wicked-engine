@@ -5,8 +5,10 @@ A Friday Night Funkin' engine, built with the Heaps.io Game Engine, programmed i
 **Too bad it's poorly optimized. Like. *Really* poorly optimized.**
 
 Heaps(.io) paired with HashLink is optimized. *Really* optimized. Very easy to compile to. It's as simple as:
-`haxelib install heaps`
-`haxe compile.hxml`
+```
+haxelib install heaps
+haxe compile.hxml
+```
 ...and that's it. Literally, that's all you need, and in less than a second, you have an up and running FNF engine.
 *Crazy, isn't it?!* The glory of Heaps.io.
 
@@ -37,7 +39,7 @@ That's cool too, no biggie, Wicked has a series of tools to make sure that it's 
 *(Something Wicked this way comes.)*
 
 # Showcase time!
-(todo: actuall add some pictures lmfao)
+(todo: actually add some pictures lmfao)
 
 # CREDITS
 
