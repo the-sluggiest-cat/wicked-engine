@@ -4,3 +4,10 @@
 -hl bin/hlboot.dat
 -main Main
 -D windowSize=1366x768
+
+#hxml is a tricky beast, and is suggested that you trust the process
+#heaps uses -hl, as im using hashlink to run wicked engine, very optimized
+#lib calls libraries which can be used throughout the program without having to import it
+#cp i *believe* is used for what to refer to for source code?
+#main goes for the first class to run
+#and D is basically just heaps-relevant stuff -- heaps.io is your friend for documentation
