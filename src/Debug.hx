@@ -62,3 +62,7 @@ class Debug {
  ! HOW TO: Debug Files
  - Make a file -> link that file for any other .hx file to use as a log file (with Debug.debug/Debug.warn)
  */
+
+
+//*VARIABLE SEQUENCE:
+//path -> dfile -> date -> dfp -> debugFile -> new() -> debug()/warn() -(if warn)-> dateTime
