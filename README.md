@@ -7,6 +7,7 @@ A Friday Night Funkin' engine, built with the Heaps.io Game Engine, programmed i
 Heaps(.io) paired with HashLink is optimized. *Really* optimized. Very easy to compile to. It's as simple as:
 ```
 haxelib install heaps
+haxelib install hlsdl
 haxelib install hscript
 haxe compile.hxml
 ```
