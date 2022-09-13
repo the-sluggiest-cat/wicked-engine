@@ -12,6 +12,7 @@ haxelib install hscript
 haxe compile.hxml
 ```
 ...and that's it. Literally, that's all you need, and in less than a second (or a few, depending on your system specs), you have an up and running FNF engine.
+Three lines of installing, compared to the **18 fucking lines** of code you need *just* to install!
 
 And, if you want to share your mods with friends, the awesome thing is? **IT DOESN'T TAKE UP 500+ MB OF DATA!** At most, `hlboot.dat` (the compiled stuff) may take a few MB, including for resources, but your FNF folder **won't** take up 90% of your 1 TB drive using Wicked Engine.
 
