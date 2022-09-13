@@ -17,7 +17,8 @@ class Main extends hxd.App {
         }
 
         if (music != null) {
-            music.play();
+            music.play(); //! ON MY BUILD, FOR SOME REASON, MUSIC PLAYS FOR ~3 SECONDS, THEN CUTS OUT.
+            //TODO: figure out what the hell is happening here
         }
 
     }
