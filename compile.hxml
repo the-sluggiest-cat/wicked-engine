@@ -5,6 +5,7 @@
 -hl bin/hlboot.dat
 -main Main
 -D windowSize=1366x768
+-D heaps_enable_hl_mp3=true
 
 #hxml is a tricky beast, and is suggested that you trust the process
 #heaps uses -hl, as im using hashlink to run wicked engine, very optimized
